@@ -1,3 +1,4 @@
 src/main/resources/*
 scenario.json
 solution.json
+target
